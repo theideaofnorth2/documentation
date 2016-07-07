@@ -25,10 +25,11 @@ Log in and update the site content. Once changes have been made, open a new tab 
 - Add file name to destination in CMS
 
 #### Origin images:
-- Create origin in CMS and remember its key (visible in the CMS on the origin page)
+- Create origin in CMS and remember its key (visible in the CMS on the origin page). Then open a new tab to:  
+[theideaofnorth2.herokuapp.com/api/config](https://theideaofnorth2.herokuapp.com/api/config)
 - Use chrome with the profile theideaofnorth2 and go to [dev.theideaofnorth2.com/capture.html](http://dev.theideaofnorth2.com/capture.html)
 - Choose origin and click "Open tabs" (you may need to allow the site to open multiple popups)
-- Generate screenshots of all tabs with the screen capture extension installed (button is at the right of the URL bar), and save them with their zoom level as file name (ex: "12.jpg")
+- Generate screenshots of all tabs with the screen capture extension installed (button is at the right of the URL bar), and save them with their zoom level as file name (ex: "12.jpg"). The zoom level is the last number in the URL.
 - Upload all images to Bluehost under 'assets/images/origins/KEY_OF_ORIGIN/' 
 
 #### Egg icons:
