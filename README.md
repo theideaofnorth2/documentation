@@ -19,14 +19,14 @@ Log in and update the site content. Once changes have been made, open a new tab 
 - Upload video to youtube and copy ID of the video (last part of the url once published)
 - Add ID to egg in CMS
 
-#### Destination images:
-- Upload image in full HD to Bluehost under 'assets/images/destinations/'
-- Add file name to destination in CMS
-
 #### Egg icons:
 - Create icon in svg in a square format (the image will be displayed in a 63px X 63px square on the site)
 - Upload image to Bluehost under 'assets/images/eggs/'
 - Add file name to egg in CMS
+
+#### Destination images:
+- Upload image in full HD to Bluehost under 'assets/images/destinations/'
+- Add file name to destination in CMS
 
 #### Interview images:
 - Upload images in full HD to Bluehost under 'assets/images/interviews/CUSTOM_ID_OF_INTERVIEW'
