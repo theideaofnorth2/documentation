@@ -2,7 +2,6 @@
 
 ## Dev version of the site:
 [dev.theideaofnorth2.com](http://dev.theideaofnorth2.com)  
-Make sure to wait until all assets are loaded before interacting with the site as there are currently no caching or CDN implementations
 
 ## CMS
 
@@ -17,8 +16,8 @@ Log in and update the site content. Once changes have been made, open a new tab 
 - Add file name to interview in CMS
 
 #### Egg videos
-- Upload video in .webm format to Bluehost under 'assets/videos/eggs/'
-- Add file name to egg in CMS
+- Upload video to youtube and copy ID of the video (last part of the url once published)
+- Add ID to egg in CMS
 
 #### Destination images:
 - Upload image in full HD to Bluehost under 'assets/images/destinations/'
