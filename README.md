@@ -24,20 +24,20 @@ Log in and update the site content. Once changes have been made, open a new tab 
 - Upload image to Bluehost under 'assets/images/eggs/'
 - Add file name to egg in CMS
 
-#### Destination images:
-- Upload image in full HD to Bluehost under 'assets/images/destinations/'
-- Add file name to destination in CMS
+#### Cities images:
+- Upload image in full HD to Bluehost under 'assets/images/cities/'
+- Add file name to destination or origin in CMS
 
 #### Interview images:
 - Upload images in full HD to Bluehost under 'assets/images/interviews/CUSTOM_ID_OF_INTERVIEW'
 
-#### Origin images:
+#### Zoomer images:
 - Create origin in CMS and remember its key (visible in the CMS on the origin page). Then open a new tab to:  
 [theideaofnorth2.herokuapp.com/api/config](https://theideaofnorth2.herokuapp.com/api/config)
 - Use chrome with the profile theideaofnorth2 and go to [dev.theideaofnorth2.com/capture.html](http://dev.theideaofnorth2.com/capture.html)
 - Choose origin and click "Open tabs" (you may need to allow the site to open multiple popups)
 - Generate screenshots of all tabs with the screen capture extension installed (button is at the right of the URL bar), and save them with their zoom level as file name (ex: "12.jpg"). The zoom level is the last number in the URL.
-- Upload all images to Bluehost under 'assets/images/origins/KEY_OF_ORIGIN/' 
+- Upload all images to Bluehost under 'assets/images/zoomers/KEY_OF_ORIGIN/' 
 
 ## Slideshow:
 - Edit Google Drive spreadsheet named "slideshow" located in "TheIdeaOfNorth2/interviews/themes/"
