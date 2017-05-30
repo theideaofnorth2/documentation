@@ -2,6 +2,8 @@
 
 ## Dev version of the site:
 [dev.theideaofnorth2.com](http://dev.theideaofnorth2.com)  
+In order to get the time in seconds in the player, add the query parameter "debug": [dev.theideaofnorth2.com/?debug](http://dev.theideaofnorth2.com/?debug)  
+
 
 ## CMS
 
