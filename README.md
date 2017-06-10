@@ -48,3 +48,11 @@ Log in and update the site content. Once changes have been made, open a new tab 
 - tick the first checkbox "Replace existing file(s)" and the checkbox "Export sheet arrays" under "JSON Options" and click the "Export" button
 - Wait for the json file to be generated, then open it in Drive and save it locally to the project folder
 - Upload the file "slideshow.json" to Bluehost in the directory "api/"
+
+## CDN
+Cloudflare, a free CDN, is used to speed up the load time of images. In order to purge the cache:
+- Use chrome with the profile theideaofnorth2
+- Log in to cloudflare (login / password are already saved)
+- Go to the cache section
+- Select "purge individual file" or "purge all files"
+More information can be found on the [Cloudflare support page](https://support.cloudflare.com/hc/en-us/articles/200169246-How-do-I-purge-my-cache-)
