@@ -1,15 +1,19 @@
 # The Idea Of North 2.0: Documentation
 
 ## Dev version of the site:
+Normal version:   
 [dev.theideaofnorth2.com](http://dev.theideaofnorth2.com)  
+Light version:   
+[dev.theideaofnorth2.com/?light](http://dev.theideaofnorth2.com/?light)  
 In order to get the time in seconds in the player, add the query parameter "debug": [dev.theideaofnorth2.com/?debug](http://dev.theideaofnorth2.com/?debug)  
 
 
 ## CMS
 
+Normal version:   
 [theideaofnorth2.herokuapp.com/keystone](https://theideaofnorth2.herokuapp.com/keystone)  
-Log in and update the site content. Once changes have been made, open a new tab to:  
-[theideaofnorth2.herokuapp.com/api/config](https://theideaofnorth2.herokuapp.com/api/config)
+Light version:   
+[theideaofnorth2-light.herokuapp.com/keystone](https://theideaofnorth2-light.herokuapp.com/keystone)  
 
 ## Assets
 
@@ -34,9 +38,8 @@ Log in and update the site content. Once changes have been made, open a new tab 
 - Upload images in full HD to Bluehost under 'assets/images/interviews/CUSTOM_ID_OF_INTERVIEW'
 
 #### Zoomer images:
-- Create origin in CMS and remember its key (visible in the CMS on the origin page). Then open a new tab to:  
-[theideaofnorth2.herokuapp.com/api/config](https://theideaofnorth2.herokuapp.com/api/config)
-- Use chrome with the profile theideaofnorth2 and go to [dev.theideaofnorth2.com/capture.html](http://dev.theideaofnorth2.com/capture.html)
+- Create origin in CMS and remember its key (visible in the CMS on the origin page)
+- Use chrome with the profile theideaofnorth2 and go to [dev.theideaofnorth2.com/capture.html](http://dev.theideaofnorth2.com/capture.html) (for the light version: [dev.theideaofnorth2.com/capture.html?light](http://dev.theideaofnorth2.com/capture.html?light))
 - Choose origin and click "Open tabs" (you may need to allow the site to open multiple popups)
 - Generate screenshots of all tabs with the screen capture extension installed (button is at the right of the URL bar), and save them with their zoom level as file name (ex: "12.jpg"). The zoom level is the last number in the URL.
 - Upload all images to Bluehost under 'assets/images/zoomers/KEY_OF_ORIGIN/' 
