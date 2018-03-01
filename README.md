@@ -24,7 +24,7 @@ Available at:
 - Use chrome with the profile theideaofnorth2 and go to [dev.theideaofnorth2.com/capture.html](http://dev.theideaofnorth2.com/capture.html)
 - Choose origin and click "Open tabs" (you may need to allow the site to open multiple popups)
 - Generate screenshots of all tabs with the screen capture extension installed (button is at the right of the URL bar), and save them with their zoom level as file name (ex: "12.jpg"). The zoom level is the last number in the URL.
-- Add images to the CMS as zoomers 
+- Add images to origins in the CMS 
 
 ## CDN
 Cloudflare, a free CDN, is used to speed up the load time of images. In order to purge the cache:
