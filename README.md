@@ -1,14 +1,11 @@
 # The Idea Of North 2.0: Documentation
 
 ## Dev version of the site:
-Normal version:   
 [dev.theideaofnorth2.com](http://dev.theideaofnorth2.com)  
 In order to get the time in seconds in the player, add the query parameter "debug": [dev.theideaofnorth2.com/?debug](http://dev.theideaofnorth2.com/?debug)  
 
 
 ## CMS
-
-Available at:   
 [theideaofnorth2.com/admin](https://theideaofnorth2.com/admin)  
 
 ## Assets
